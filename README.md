@@ -9,7 +9,7 @@
 ---
 
 ## 📄 My CV
----
+
 ## Contact Information
 - Email : 222868708@mycput.ac.za
 - Phone : 063 312 4362
@@ -50,6 +50,8 @@
 
 ### Library Management System
 -This project uses inheritance to manage database of library users and resources, distinguishing between students, staff, and various media types like books or DVD'S.
+
+---
 
 ## 🎥 Mock Interview Video 
 [https://youtube.com/shorts/oRLxzqaX0MA?feature=share]
