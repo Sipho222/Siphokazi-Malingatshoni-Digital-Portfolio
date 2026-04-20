@@ -44,7 +44,7 @@
   
 ### Student Enrollment System
 - This project is a Client-server Student Enrollemnt System that uses a JavaSwing GUI to manage student records course records and registrations through a networked connection. It uses a centralized Derby Database and Data Access Objects(DAO's) to allow adminstrators to perfom CRUID operations while students can log in to view and enroll for their specific courses
----
+
 
 ### Library Management System
 -This project uses inheritance to manage database of library users and resources, distinguishing between students, staff, and various media types like books or DVD'S.
