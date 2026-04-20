@@ -39,7 +39,7 @@
 ---
   
 ## 💻 My Projects
----
+
 ### Smart Cafeteria Ordering System
 - Java based application that allows students/users to register and log in to a campus cafeteria system which provides a menu where they can view available food items, add food items to a cart, get schedule pickups and get automatic discounts.
 - Role: Project Co-ordinator and Database Developer
@@ -70,7 +70,7 @@
 
 ---
 
-## ✍️ Reflection on Mock Interview (STAR Method
+## ✍️ Reflection on Mock Interview (STAR Method)
 
 *Situation: As part of my work readiness training, I participated in a mock interview to prepare for real-world job applications.
 
