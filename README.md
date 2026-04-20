@@ -28,6 +28,8 @@
 - Diploma in ICT
 - 2024-2026(Final Year)
 
+---
+
 ## Skills 
 - Java Programming  
 - Java Swing GUI  
@@ -55,7 +57,7 @@
 
 ---
 ## ✍️ Reflection on Markdown (STAR Method)
----
+
 *Situation: I was required to create a digital portfolio using Markdown on GitHub.  
 
 *Task: I needed to structure my CV, projects, and reflections in a professional format.
@@ -64,10 +66,9 @@
 
 *Result: I successfully created a structured and professional digital portfolio.
 
----
 
 ## ✍️ Reflection on Mock Interview (STAR Method
----
+
 
 *Situation: I participated in a mock interview as part of my work readiness training.  
 
@@ -77,7 +78,6 @@
 
 *Result: I improved my confidence, communication skills, and interview readiness.
 
----
 
 ## ✍️ Reflection on GitHub Pages (STAR Method)
 ---
