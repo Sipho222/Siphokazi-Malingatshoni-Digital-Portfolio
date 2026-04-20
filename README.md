@@ -65,7 +65,7 @@
 ---
 
 ## 🎥 Mock Interview Video 
-[Watch my mock Interview](https://youtube.com/shorts/oRLxzqaX0MA?feature=share)
+[https://youtube.com/shorts/oRLxzqaX0MA?feature=share]
 
 ---
 
