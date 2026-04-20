@@ -9,7 +9,7 @@
 ---
 
 ## 📄 My CV
-
+---
 ## Contact Information
 - Email : 222868708@mycput.ac.za
 - Phone : 063 312 4362
@@ -55,6 +55,7 @@
 [https://youtube.com/shorts/oRLxzqaX0MA?feature=share]
 
 ---
+
 ## ✍️ Reflection on Markdown (STAR Method)
 
 *Situation: I was required to design and develop a professional digital portfolio using Markdown and host it on GitHub Pages as part of my work readiness training.
