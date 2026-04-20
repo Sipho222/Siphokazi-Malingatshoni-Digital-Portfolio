@@ -8,7 +8,7 @@
 ---
 
 ## 📄 My CV
----
+
 ## Contact Information
 - Email : 222868708@mycput.ac.za
 - Phone : 063 312 4362
