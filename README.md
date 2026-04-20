@@ -36,8 +36,8 @@
 - SQL   
 - GitHub
 - IntelliJ IDEA
-- Microsoft Excell(for data analysis) 
-- System Design
+- Microsoft Excell(for data analysis)
+ 
 ---
   
 ## 💻 My Projects
@@ -65,7 +65,7 @@
 ---
 
 ## 🎥 Mock Interview Video 
-[https://youtube.com/shorts/oRLxzqaX0MA?feature=share]
+[Watch my mock Interview](https://youtube.com/shorts/oRLxzqaX0MA?feature=share)
 
 ---
 
