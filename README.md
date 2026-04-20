@@ -33,8 +33,10 @@
 - Java Programming  
 - Java Swing GUI  
 - Database Management (Derby)  
-- SQL Basics  
-- GitHub  
+- SQL   
+- GitHub
+- IntelliJ IDEA
+- Microsoft Excell(for data analysis) 
 - System Design
 ---
   
@@ -59,6 +61,8 @@
 - Subject Co-ordinator
 - tswanes@cput.ac.za
 - 021 460 3010
+
+---
 
 ## 🎥 Mock Interview Video 
 [https://youtube.com/shorts/oRLxzqaX0MA?feature=share]
