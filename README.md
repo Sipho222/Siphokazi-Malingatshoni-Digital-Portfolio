@@ -3,7 +3,7 @@
 ---
 
 ## 👤 About Me
----
+
 -Final-year Diploma in ICT(Application Development) student with a strong foundation in software development, seeking for an entry-level job in IT where I can apply my programming, database management and problem solving skills to develop efficient and user friendly systems. Motivated and eager to gain industry experience while applying my skills to contribute to organizational goals.
 
 ---
