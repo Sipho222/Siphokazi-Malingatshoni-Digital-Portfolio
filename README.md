@@ -57,36 +57,35 @@
 ---
 ## ✍️ Reflection on Markdown (STAR Method)
 
-*Situation: I was required to create a digital portfolio using Markdown on GitHub.  
+*Situation: I was required to design and develop a professional digital portfolio using Markdown and host it on GitHub Pages as part of my work readiness training.
 
-*Task: I needed to structure my CV, projects, and reflections in a professional format.
+*Task: My task was to organise all my academic and practical work, including my CV, projects, and reflections, into a structured and professional online portfolio that demonstrates my skills and learning progress.
 
-*Action:  I learned Markdown syntax and used headings, lists, and links to organise my content in GitHub.  
+*Action: I learned how to use GitHub Flavoured Markdown to format my content using headings, lists, and hyperlinks. At first, I struggled with correctly structuring sections. I also had to troubleshoot file paths to ensure everything displayed properly on my GitHub repository. Through practice and testing, I improved the layout and made my portfolio more organised and readable. I then deployed the repository using GitHub Pages to make it publicly accessible.
 
-*Result: I successfully created a structured and professional digital portfolio.
+*Result: I successfully created and deployed a functional digital portfolio. This process improved my technical skills in Markdown, GitHub version control, and website deployment. It also helped me understand how to present my work in a professional and structured way.
 
+---
 
 ## ✍️ Reflection on Mock Interview (STAR Method
 
+*Situation: As part of my work readiness training, I participated in a mock interview to prepare for real-world job applications.
 
-*Situation: I participated in a mock interview as part of my work readiness training.  
+*Task: I needed to present myself professionally, answer interview questions clearly, and demonstrate confidence and communication skills. 
 
-*Task: I needed to present myself professionally and answer interview questions effectively.  
+*Action: I researched common interview questions and prepared structured responses. During the interview, I initially felt nervous, especially when answering behavioural questions. However, I focused on staying calm and improving my clarity when speaking. After the session, I reviewed my performance and identified areas where I could improve my confidence and answer structure.
 
-*Action: I prepared for common questions, practiced my responses, and recorded my interview.
+*Result: The mock interview helped me improve my communication skills, confidence, and ability to think under pressure. It also made me more aware of how to present myself professionally in future interviews.
 
-*Result: I improved my confidence, communication skills, and interview readiness.
-
-
-## ✍️ Reflection on GitHub Pages (STAR Method)
 ---
+## ✍️ Reflection on GitHub Pages (STAR Method)
 
-* Situation: I was required to publish my portfolio using GitHub Pages.
+* Situation: I was required to publish my digital portfolio online using GitHub Pages.
 
-* Task: I had to deploy my GitHub repository as a live website.
+* Task: My task was to correctly configure my GitHub repository and deploy it as a live website accessible via a public link.
 
-* Action: I enabled GitHub Pages in my repository settings and linked the live site.  
+* Action: I enabled GitHub Pages in the repository settings and selected the correct branch for deployment. Initially, I faced challenges with ensuring that all files were correctly linked and displayed on the live site. I resolved this by checking my file structure and updating incorrect paths. After troubleshooting, I successfully deployed the portfolio. 
 
-* Result:  My portfolio was successfully published online and is now accessible via a public link.
+* Result:  My portfolio was successfully published online and is now accessible through a live GitHub Pages link. This improved my understanding of web hosting, deployment processes, and version control systems.
 
 
