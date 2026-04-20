@@ -51,7 +51,7 @@
 
 
 ### Library Management System
--This project uses inheritance to manage database of library users and resources, distinguishing between students, staff, and various media types like books or DVD'S.
+- This project uses inheritance to manage database of library users and resources, distinguishing between students, staff, and various media types like books or DVD'S.
 
 ---
 
