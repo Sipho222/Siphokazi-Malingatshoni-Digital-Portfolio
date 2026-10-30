@@ -102,4 +102,36 @@
 
 * Result:  My portfolio was successfully published online and is now accessible through a live GitHub Pages link. This improved my understanding of web hosting, deployment processes, and version control systems.
 
+---
+
+## Agile Team Charter
+
+## Pretoria Prime Recycling 
+
+- The Agile Team Charter outlines the team's shared goals, responsiblities, values and working agreements for the Pretoria Prime Recycling Project
+
+- 
+
+[View Agile Team Charter][https://github.com/Sipho222/Siphokazi-Malingatshoni-Digital-Portfolio/blob/main/Agile%20Team%20Charter.pdf]
+
+## Reflection on My Role as UI/UX & Systems Analyst
+
+### Situation
+I was part of the Pretoria Prime Recycling project, where our team planned a recycling service for residents in Silver Lakes.
+
+### Task
+My responsibility was to maintain the Figma interactive prototype, track registration and survey metrics using Google Sheets, and assist with the customer data flow.
+
+### Action
+I worked on the UI/UX and systems analysis aspects of the project. This involved contributing to the interactive prototype, organising registration and survey information, and helping the team understand how customer information would flow through the service.
+
+### Result
+This role helped me understand how UI/UX design and systems analysis contribute to a project. I also improved my understanding of using Figma to represent a system, Google Sheets to organise information, and the importance of considering the customer experience when planning a service.
+
+---
+
+### User Stories and Tasks
+-User stories and tasks were created to identify the needs of residents and break the Pretoria Prime Recycling project into manageable activities. Using Trello, our team organised these requirements across different sprints, covering areas such as resident registration, login, onboarding, the home dashboard, recycling information, collection schedules and customer engagement. Acceptance criteria were also included to clarify what each user story needed to achieve.
+
+-The document below contains the user stories, acceptance criteria and tasks recorded throughout the project.
 
