@@ -126,12 +126,35 @@ My responsibility was to maintain the Figma interactive prototype, track registr
 I worked on the UI/UX and systems analysis aspects of the project. This involved contributing to the interactive prototype, organising registration and survey information, and helping the team understand how customer information would flow through the service.
 
 ### Result
-This role helped me understand how UI/UX design and systems analysis contribute to a project. I also improved my understanding of using Figma to represent a system, Google Sheets to organise information, and the importance of considering the customer experience when planning a service.
+This role helped customer experience when planning a service.
 
 ---
 
 ### User Stories and Tasks
 -User stories and tasks were created to identify the needs of residents and break the Pretoria Prime Recycling project into manageable activities. Using Trello, our team organised these requirements across different sprints, covering areas such as resident registration, login, onboarding, the home dashboard, recycling information, collection schedules and customer engagement. Acceptance criteria were also included to clarify what each user story needed to achieve.
 
--The document below contains the user stories, acceptance criteria and tasks recorded throughout the project.
+### Evidence 
 
+
+-The document below contains the user stories, acceptance criteria and tasks recorded throughout the project.
+[https://github.com/Sipho222/Siphokazi-Malingatshoni-Digital-Portfolio/blob/main/User%20Stories%20and%20Tasks.pdf]
+
+### Reflection on User Stories and Tasks 
+
+### Situation
+
+I was part of the Pretoria Prime Recycling project, where our team used Agile methods and Trello to organise the development and planning of a recycling service.
+
+### Task
+
+My role was UI/UX and Systems Analyst. I was responsible for maintaining the Figma interactive prototype, tracking registration and survey metrics in Google Sheets, and assisting with customer data flow.
+
+### Action
+
+I contributed to the UI/UX and systems analysis work by focusing on the user experience and the information required by the system. The team used user stories, acceptance criteria and tasks to break down the project requirements into manageable activities across different sprints.
+
+### Result
+
+This experience helped me understand how user stories and tasks guide the development of a project. I also learned how acceptance criteria help clarify what needs to be achieved and how Trello can be used to organise and monitor sprint activities. It improved my understanding of how user needs can be translated into system requirements and interface designs.
+
+---
