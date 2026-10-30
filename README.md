@@ -110,7 +110,8 @@
 
 - The Agile Team Charter outlines the team's shared goals, responsiblities, values and working agreements for the Pretoria Prime Recycling Project
 
-- 
+  ## Evidence 
+  
 
 [View Agile Team Charter][https://github.com/Sipho222/Siphokazi-Malingatshoni-Digital-Portfolio/blob/main/Agile%20Team%20Charter.pdf]
 
@@ -158,3 +159,33 @@ I contributed to the UI/UX and systems analysis work by focusing on the user exp
 This experience helped me understand how user stories and tasks guide the development of a project. I also learned how acceptance criteria help clarify what needs to be achieved and how Trello can be used to organise and monitor sprint activities. It improved my understanding of how user needs can be translated into system requirements and interface designs.
 
 ---
+
+### Trello Boards 
+
+-Our team used Trello as a project management tool to organise and manage the Pretoria Prime Recycling project. The boards helped us structure the product backlog, plan sprint activities, assign tasks and monitor progress. Using Trello also allowed the team to visualise the workflow and keep track of activities throughout the different stages of the project.
+
+## Evidence 
+
+
+- Trello Board:[https://trello.com/b/PBGG0Zb2/pretoria-prime-recycling-product-backlog]
+[https://trello.com/b/Ob8e8JKK/pretoria-prime-recycling-sprint-board]
+
+## Reflection on Using Trello 
+
+### Situation
+Our team used Trello to organise and manage the Pretoria Prime Recycling project using an Agile workflow.
+
+### Task
+My task was to work with the team to organise project activities, user stories and tasks across different sprints while keeping track of progress.
+
+### Action
+We used Trello boards to manage the product backlog and sprint activities. We added user stories, acceptance criteria and tasks to help break down the project requirements into smaller activities. The boards also helped us monitor which tasks were completed and which still needed attention.
+
+### Result
+Using Trello helped me understand how Kanban boards can be used to organise work and monitor project progress. I also learned the importance of planning, teamwork and keeping tasks organised throughout an Agile project.
+
+---
+
+### Product and Sprints Backlog
+
+
