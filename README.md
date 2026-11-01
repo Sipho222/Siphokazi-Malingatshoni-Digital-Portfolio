@@ -235,6 +235,6 @@ Using Trello helped me understand how Kanban boards can be used to organise work
 
 ---
 
-### Product and Sprints Backlog
+
 
 
