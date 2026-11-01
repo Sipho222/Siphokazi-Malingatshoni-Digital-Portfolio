@@ -104,7 +104,7 @@
 
 ---
 
-## Agile Team Charter
+## Agile Project Charter
 
 ## Pretoria Prime Recycling 
 
@@ -132,6 +132,7 @@ This role helped customer experience when planning a service.
 ---
 
 ### User Stories and Tasks
+
 -User stories and tasks were created to identify the needs of residents and break the Pretoria Prime Recycling project into manageable activities. Using Trello, our team organised these requirements across different sprints, covering areas such as resident registration, login, onboarding, the home dashboard, recycling information, collection schedules and customer engagement. Acceptance criteria were also included to clarify what each user story needed to achieve.
 
 ### Evidence 
@@ -157,6 +158,54 @@ I contributed to the UI/UX and systems analysis work by focusing on the user exp
 ### Result
 
 This experience helped me understand how user stories and tasks guide the development of a project. I also learned how acceptance criteria help clarify what needs to be achieved and how Trello can be used to organise and monitor sprint activities. It improved my understanding of how user needs can be translated into system requirements and interface designs.
+
+---
+
+### Product Backlog 
+
+-Our team used Trello to create and manage the Product Backlog for the Pretoria Prime Recycling project. The backlog contains the features, requirements and activities planned for the project. It helped the team organise priorities, keep track of planned work and ensure that the project requirements were clearly identified.
+
+### Evidence
+
+**Trello Board:**[View Product Backlog](https://trello.com/b/PBGG0Zb2/pretoria-prime-recycling-product-backlog)
+
+### Reflection on the Product Backlog
+
+### Situation
+Our team used Trello to create and manage the Product Backlog for the Pretoria Prime Recycling project.
+
+### Task
+My task was to contribute to the project as a UI/UX and Systems Analyst by helping the team understand the system requirements, user needs and features that needed to be included in the project.
+
+### Action
+The team used the Product Backlog to organise planned features and requirements, such as resident registration, login, onboarding, the home dashboard, recycling information and collection reminders. We used Trello to keep these items organised and make it easier to identify the work that needed to be prioritised.
+
+### Result
+Working with the Product Backlog helped me understand how project requirements are organised and prioritised in Agile. I also learned how breaking a project into smaller features makes it easier for a team to plan its work and keep track of what needs to be developed.
+
+---
+
+### Sprints Backlog
+
+-Our team used Trello to organise and manage the Sprint Backlog for the Pretoria Prime Recycling project. The work was divided into different sprints, with each sprint focusing on specific features, user stories and tasks. This helped the team break down the project into manageable activities, monitor progress and identify the work that needed attention during each development phase.
+
+### Evidence
+
+**Trello Board:**[View Sprint Backlog](https://trello.com/b/Ob8e8JKK/pretoria-prime-recycling-sprint-board)
+
+### Reflection on the Sprint Backlog
+
+### Situation
+Our team used Trello to organise and manage the Sprint Backlog for the Pretoria Prime Recycling project. The project work was divided into different sprints, with each sprint focusing on specific features and activities.
+
+### Task
+My responsibility was to contribute as a UI/UX and Systems Analyst by helping with the Figma interactive prototype, tracking registration and survey metrics in Google Sheets, and assisting with customer data flow.
+
+### Action
+The team used the Sprint Board to organise user stories and tasks into different development phases. Sprint 5 focused on the app foundation, including registration, login, onboarding, the home dashboard and profile setup. Later sprints covered recycling features, customer research, financial planning and the pilot launch.
+
+### Result
+Working with the Sprint Backlog helped me understand how Agile teams divide larger project requirements into smaller, manageable tasks. I also learned the importance of sprint planning, monitoring progress, teamwork and completing activities within planned development phases.
 
 ---
 
