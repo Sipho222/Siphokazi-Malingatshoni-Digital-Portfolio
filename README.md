@@ -112,7 +112,7 @@
 
   ## Evidence 
   
-[View Agile Team Charte[https://github.com/Sipho222/Siphokazi-Malingatshoni-Digital-Portfolio/blob/main/Agile%20Team%20Charter.pdf]
+**Trello Boards:** [View Agile Team Charte](https://github.com/Sipho222/Siphokazi-Malingatshoni-Digital-Portfolio/blob/main/Agile%20Team%20Charter.pdf)
 
 ## Reflection on My Role as UI/UX & Systems Analyst
 
@@ -214,12 +214,12 @@ Working with the Sprint Backlog helped me understand how Agile teams divide larg
 
 ## Evidence on Using Trello 
 
-**Trello Boards:** [https://trello.com/u/siphokazimalingatshoni/boards]
+**Trello Boards:**[View Trello Boards](https://trello.com/u/siphokazimalingatshoni/boards)
 
-**Trello Board:**[https://trello.com/b/PBGG0Zb2/pretoria-prime-recycling-product-backlog]
-[https://trello.com/b/Ob8e8JKK/pretoria-prime-recycling-sprint-board)
+**Trello Board:** [View Product Backlog](https://trello.com/b/PBGG0Zb2/pretoria-prime-recycling-product-backlog
+https://trello.com/b/Ob8e8JKK/pretoria-prime-recycling-sprint-board)
 
-**Trello Boards:** [https://trello.com/b/Ob8e8JKK/pretoria-prime-recycling-sprint-board]
+**Trello Boards:**[View Sprint Boards](https://trello.com/b/Ob8e8JKK/pretoria-prime-recycling-sprint-board)
 
 ## Reflection on Using Trello 
 
