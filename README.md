@@ -239,9 +239,13 @@ Using Trello helped me understand how Kanban boards can be used to organise work
 
 -The Agile Logbook documents the progress and activities carried out throughout the Pretoria Prime Recycling project. It records the team's weekly tasks, sprint activities, discussions, achievements and challenges during the project. It also provides an overview of how the project developed over time and how Agile practices were applied to organise work, monitor progress and support teamwork.
 
--The logbook below provides a record of the project's activities and progress throughout its development.
+--The logbook below provides a record of the project's activities and progress throughout its development.
 
-### Evidence 
+### Evidence
+[View Agile Logbook (PDF)](https://github.com/Sipho222/Siphokazi-Malingatshoni-Digital-Portfolio/blob/main/Agile%20Logbok%2021-24July.pdf)
+
+### Reflection 
+
 
 
 
