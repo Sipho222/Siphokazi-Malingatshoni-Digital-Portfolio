@@ -112,7 +112,7 @@
 
   ## Evidence 
   
-**Trello Boards:** [View Agile Team Charte](https://github.com/Sipho222/Siphokazi-Malingatshoni-Digital-Portfolio/blob/main/Agile%20Team%20Charter.pdf)
+**Trello Boards:** [View Agile Team Charter](https://github.com/Sipho222/Siphokazi-Malingatshoni-Digital-Portfolio/blob/main/Agile%20Team%20Charter.pdf)
 
 ## Reflection on My Role as UI/UX & Systems Analyst
 
