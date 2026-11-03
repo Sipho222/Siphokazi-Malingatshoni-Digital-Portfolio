@@ -112,7 +112,6 @@
 
   ## Evidence 
   
-
 [View Agile Team Charter][https://github.com/Sipho222/Siphokazi-Malingatshoni-Digital-Portfolio/blob/main/Agile%20Team%20Charter.pdf]
 
 ## Reflection on My Role as UI/UX & Systems Analyst
@@ -139,7 +138,7 @@ This role helped customer experience when planning a service.
 
 
 -The document below contains the user stories, acceptance criteria and tasks recorded throughout the project.
-[https://github.com/Sipho222/Siphokazi-Malingatshoni-Digital-Portfolio/blob/main/User%20Stories%20and%20Tasks.pdf]
+**Trello Boards :**[View User Stories (PDF)](https://github.com/Sipho222/Siphokazi-Malingatshoni-Digital-Portfolio/blob/main/User%20Stories%20and%20Tasks.pdf)
 
 ### Reflection on User Stories and Tasks 
 
@@ -215,9 +214,11 @@ Working with the Sprint Backlog helped me understand how Agile teams divide larg
 
 ## Evidence 
 
+**Trello Board:**[View Product Backlog](https://trello.com/b/PBGG0Zb2/pretoria-prime-recycling-product-backlog]
+[https://trello.com/b/Ob8e8JKK/pretoria-prime-recycling-sprint-board)
 
-- Trello Board:[https://trello.com/b/PBGG0Zb2/pretoria-prime-recycling-product-backlog]
-[https://trello.com/b/Ob8e8JKK/pretoria-prime-recycling-sprint-board]
+**Trello Boards:** [https://trello.com/b/Ob8e8JKK/pretoria-prime-recycling-sprint-board]
+
 
 ## Reflection on Using Trello 
 
