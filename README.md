@@ -104,7 +104,7 @@
 
 ---
 
-## Agile Project Charter
+## Agile Team Charter
 
 ## Pretoria Prime Recycling 
 
@@ -112,7 +112,7 @@
 
   ## Evidence 
   
-[View Agile Team Charter][https://github.com/Sipho222/Siphokazi-Malingatshoni-Digital-Portfolio/blob/main/Agile%20Team%20Charter.pdf]
+[View Agile Team Charte[https://github.com/Sipho222/Siphokazi-Malingatshoni-Digital-Portfolio/blob/main/Agile%20Team%20Charter.pdf]
 
 ## Reflection on My Role as UI/UX & Systems Analyst
 
@@ -134,10 +134,10 @@ This role helped customer experience when planning a service.
 
 -User stories and tasks were created to identify the needs of residents and break the Pretoria Prime Recycling project into manageable activities. Using Trello, our team organised these requirements across different sprints, covering areas such as resident registration, login, onboarding, the home dashboard, recycling information, collection schedules and customer engagement. Acceptance criteria were also included to clarify what each user story needed to achieve.
 
+-The document below contains the user stories, acceptance criteria and tasks recorded throughout the project.
+
 ### Evidence 
 
-
--The document below contains the user stories, acceptance criteria and tasks recorded throughout the project.
 **Trello Boards :**[View User Stories (PDF)](https://github.com/Sipho222/Siphokazi-Malingatshoni-Digital-Portfolio/blob/main/User%20Stories%20and%20Tasks.pdf)
 
 ### Reflection on User Stories and Tasks 
@@ -212,13 +212,14 @@ Working with the Sprint Backlog helped me understand how Agile teams divide larg
 
 -Our team used Trello as a project management tool to organise and manage the Pretoria Prime Recycling project. The boards helped us structure the product backlog, plan sprint activities, assign tasks and monitor progress. Using Trello also allowed the team to visualise the workflow and keep track of activities throughout the different stages of the project.
 
-## Evidence 
+## Evidence on Using Trello 
 
-**Trello Board:**[View Product Backlog](https://trello.com/b/PBGG0Zb2/pretoria-prime-recycling-product-backlog]
+**Trello Boards:** [https://trello.com/u/siphokazimalingatshoni/boards]
+
+**Trello Board:**[https://trello.com/b/PBGG0Zb2/pretoria-prime-recycling-product-backlog]
 [https://trello.com/b/Ob8e8JKK/pretoria-prime-recycling-sprint-board)
 
 **Trello Boards:** [https://trello.com/b/Ob8e8JKK/pretoria-prime-recycling-sprint-board]
-
 
 ## Reflection on Using Trello 
 
@@ -238,9 +239,7 @@ Using Trello helped me understand how Kanban boards can be used to organise work
 
 ### Agile Logbook 
 
--The Agile Logbook documents the progress and activities carried out throughout the Pretoria Prime Recycling project. It records the team's weekly tasks, sprint activities, discussions, achievements and challenges during the project. It also provides an overview of how the project developed over time and how Agile practices were applied to organise work, monitor progress and support teamwork.
-
---The logbook below provides a record of the project's activities and progress throughout its development.
+-The Agile Logbook documents the progress and activities carried out throughout the Pretoria Prime Recycling project. It records the team's weekly tasks, sprint activities, discussions, achievements and challenges during the project. It also provides an overview of how the project developed over time and how Agile practices were applied to organise work, monitor progress and support teamwork. The logbook below provides a record of the project's activities and progress throughout its development.
 
 ### Evidence
 
