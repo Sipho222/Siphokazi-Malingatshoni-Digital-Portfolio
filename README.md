@@ -242,11 +242,26 @@ Using Trello helped me understand how Kanban boards can be used to organise work
 --The logbook below provides a record of the project's activities and progress throughout its development.
 
 ### Evidence
-[View Agile Logbook (PDF)](https://github.com/Sipho222/Siphokazi-Malingatshoni-Digital-Portfolio/blob/main/Agile%20Logbok%2021-24July.pdf)
 
-[View Agile Logbook -Part2 (PDF)](
+[View Agile Logbook -Part 1(PDF)](https://github.com/Sipho222/Siphokazi-Malingatshoni-Digital-Portfolio/blob/main/Agile%20Logbok%2021-24July.pdf)
 
-### Reflection 
+[View Agile Logbook -Part2 (PDF)](https://github.com/Sipho222/Siphokazi-Malingatshoni-Digital-Portfolio/blob/main/Agile%20Logbok%2028-31July.pdf)
+
+[View Agile Logbook -Part 3 (PDF)](
+
+### Reflection on the Agile Logbook
+
+### Situation
+Throughout the Pretoria Prime Recycling project, our team used an Agile Logbook to record project activities, progress and important tasks completed during different stages of the project.
+
+### Task
+My responsibility was to contribute as a UI/UX and Systems Analyst by maintaining the Figma interactive prototype, tracking registration and survey information using Google Sheets, and assisting with customer data flow.
+
+### Action
+The Agile Logbook helped document the team's activities and keep track of the work carried out during the project. It provided a record of our progress, tasks and challenges, allowing us to reflect on what had been achieved and what still needed attention.
+
+### Result
+Maintaining the Agile Logbook helped me understand the importance of documenting project progress and keeping records throughout an Agile project. I also learned that regular documentation improves communication, accountability and teamwork because everyone can refer back to the activities and progress recorded.
 
 
 
