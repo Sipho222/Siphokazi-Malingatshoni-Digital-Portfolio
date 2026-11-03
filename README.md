@@ -216,8 +216,7 @@ Working with the Sprint Backlog helped me understand how Agile teams divide larg
 
 **Trello Boards:**[View Trello Boards](https://trello.com/u/siphokazimalingatshoni/boards)
 
-**Trello Board:** [View Product Backlog](https://trello.com/b/PBGG0Zb2/pretoria-prime-recycling-product-backlog
-https://trello.com/b/Ob8e8JKK/pretoria-prime-recycling-sprint-board)
+**Trello Board:** [View Product Backlog](https://trello.com/b/PBGG0Zb2/pretoria-prime-recycling-product-backlog)
 
 **Trello Boards:**[View Sprint Boards](https://trello.com/b/Ob8e8JKK/pretoria-prime-recycling-sprint-board)
 
