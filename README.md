@@ -247,7 +247,7 @@ Using Trello helped me understand how Kanban boards can be used to organise work
 
 [View Agile Logbook -Part2 (PDF)](https://github.com/Sipho222/Siphokazi-Malingatshoni-Digital-Portfolio/blob/main/Agile%20Logbok%2028-31July.pdf)
 
-[View Agile Logbook -Part 3 (PDF)](
+[View Agile Logbook -Part 3 (PDF)](https://github.com/Sipho222/Siphokazi-Malingatshoni-Digital-Portfolio/blob/main/Agile%20Logbook%204-7Aug.pdf)
 
 ### Reflection on the Agile Logbook
 
